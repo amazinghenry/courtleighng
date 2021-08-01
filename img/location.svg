@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.5.0.22-->
+<svg fill="none" fill-rule="evenodd" stroke="black" stroke-width="0.501" stroke-linejoin="bevel" stroke-miterlimit="10" font-family="Times New Roman" font-size="16" style="font-variant-ligatures:none" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="93.064pt" height="93.064pt" viewBox="1000.69 -2044.83 93.064 93.064">
+ <defs>
+	</defs>
+ <g id="Page background" transform="scale(1 -1)"/>
+ <g id="MouseOff" transform="scale(1 -1)">
+  <ellipse rx="45.922" ry="45.922" transform="translate(1047.22 1998.3) rotate(135)" stroke="#ffffff" stroke-width="1.232" stroke-linejoin="round" stroke-linecap="round"/>
+  <g id="Group" fill-rule="nonzero" stroke-linejoin="miter" stroke="none" stroke-width="0.078" fill="#ffffff">
+   <path d="M 1047.22,2012.72 C 1041.35,2012.72 1036.57,2007.94 1036.57,2002.07 C 1036.57,2000.13 1037.44,1998.06 1037.47,1997.97 C 1037.76,1997.3 1038.31,1996.27 1038.71,1995.66 L 1046.01,1984.6 C 1046.31,1984.14 1046.75,1983.88 1047.22,1983.88 C 1047.7,1983.88 1048.14,1984.14 1048.44,1984.6 L 1055.74,1995.66 C 1056.14,1996.27 1056.69,1997.3 1056.97,1997.97 C 1057.01,1998.05 1057.88,2000.13 1057.88,2002.07 C 1057.88,2007.94 1053.1,2012.72 1047.22,2012.72 Z M 1055.82,1998.45 C 1055.57,1997.86 1055.06,1996.9 1054.7,1996.35 L 1047.39,1985.29 C 1047.25,1985.07 1047.2,1985.07 1047.06,1985.29 L 1039.75,1996.35 C 1039.4,1996.9 1038.88,1997.86 1038.63,1998.45 C 1038.62,1998.48 1037.83,2000.39 1037.83,2002.07 C 1037.83,2007.25 1042.04,2011.47 1047.22,2011.47 C 1052.41,2011.47 1056.63,2007.25 1056.63,2002.07 C 1056.63,2000.39 1055.83,1998.47 1055.82,1998.45 Z" marker-start="none" marker-end="none"/>
+   <path d="M 1047.22,2007.71 C 1044.11,2007.71 1041.59,2005.18 1041.59,2002.07 C 1041.59,1998.96 1044.11,1996.43 1047.22,1996.43 C 1050.34,1996.43 1052.87,1998.96 1052.87,2002.07 C 1052.87,2005.18 1050.34,2007.71 1047.22,2007.71 Z M 1047.22,1997.68 C 1044.81,1997.68 1042.84,1999.65 1042.84,2002.07 C 1042.84,2004.49 1044.81,2006.45 1047.22,2006.45 C 1049.64,2006.45 1051.61,2004.49 1051.61,2002.07 C 1051.61,1999.65 1049.64,1997.68 1047.22,1997.68 Z" marker-start="none" marker-end="none"/>
+  </g>
+ </g>
+</svg>
